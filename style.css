@@ -1,0 +1,56 @@
+
+ div.container {
+ width: 100%;
+ border: 1px solid gray;
+ }
+ header {
+ color: white;
+ background-color: #ADD8E6;
+ clear: left;
+ text-align: center;
+ font-size: 18px;
+ height: 60px;
+ padding: 5px;
+ }
+ nav {
+ float: left;
+ max-width: 20%;
+ margin: 0;
+ padding: 1em;
+ }
+ nav ul {
+   list-style-type: none;
+}
+
+ .button {
+   border-radius: 8px;
+   border-color: blue;
+   background-color: white;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+ }
+ .box2 {
+   background-color: white;
+   width: 250px;
+   height: 250px;
+   max-height: 250px;
+   overflow-y: scroll;
+   border: 2px solid blue;
+   border-radius: 10px;
+   padding: 5px;
+   margin: 5px;
+   text-align: center;
+ }
+ .box {
+   background-color: white;
+   width: 70px;
+   height: 70px;
+   border: 2px solid blue;
+   border-radius: 10px;
+   padding: 5px;
+   margin: 5px;
+   text-align: center;
+ }
