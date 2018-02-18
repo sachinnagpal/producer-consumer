@@ -46,11 +46,15 @@
  }
  .box {
    background-color: white;
-   width: 70px;
-   height: 70px;
+   width: 65px;
+   height: 65px;
    border: 2px solid blue;
    border-radius: 10px;
    padding: 5px;
    margin: 5px;
    text-align: center;
+   font-size : 30px
+ }
+ .boxex {
+   float : left
  }
